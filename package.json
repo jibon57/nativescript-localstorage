@@ -3,6 +3,7 @@
     "version": "1.1.5",
     "description": "LocalStorage/SessionStorage API",
     "main": "localstorage",
+    "typings": "localstorage.d.ts",
     "nativescript": {
         "platforms": {
             "android": "1.0.0",
@@ -43,7 +44,12 @@
       "name": "Daniel Kucal",
       "email": "dkucal@gmail.com",
       "url": "https://github.com/danielkucal"
-    }	
+    },
+	{
+            "name": "Brad Martin",
+            "email": "bradwaynemartin@gmail.com",
+            "url": "https://github.com/bradmartin"
+        }
 	],
     "license": {
         "type": "MIT",
